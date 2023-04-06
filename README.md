@@ -35,8 +35,7 @@
 
 ## Demo 📽️
 
-https://user-images.githubusercontent.com/108235751/230293329-a2a32e5c-7ba2-4e80-bb1d-be299643a91f.mp4 🥅
-
+https://user-images.githubusercontent.com/108235751/230294008-679637da-19cb-4b1d-8c02-ab71075f7a9b.mp4
 
 Used For
 
